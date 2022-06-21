@@ -1,0 +1,90 @@
+1;Novo Hamburgo;Brasil de Pelotas;3;1
+1;Ypiranga;São José;6;3
+1;São Luiz;Pelotas;2;4
+1;Grêmio;Internacional;5;2
+1;Juventude;Caxias;1;1
+2;Novo Hamburgo;São José;5;0
+2;Brasil de Pelotas;Pelotas;0;4
+2;Ypiranga;Internacional;4;5
+2;São Luiz;Caxias;1;0
+2;Grêmio;Juventude;1;2
+3;Novo Hamburgo;Pelotas;5;0
+3;São José;Internacional;0;1
+3;Brasil de Pelotas;Caxias;4;4
+3;Ypiranga;Juventude;6;1
+3;São Luiz;Grêmio;6;6
+4;Novo Hamburgo;Internacional;4;3
+4;Pelotas;Caxias;1;3
+4;São José;Juventude;6;3
+4;Brasil de Pelotas;Grêmio;1;5
+4;Ypiranga;São Luiz;5;2
+5;Novo Hamburgo;Caxias;6;3
+5;Internacional;Juventude;3;0
+5;Pelotas;Grêmio;1;0
+5;São José;São Luiz;5;3
+5;Brasil de Pelotas;Ypiranga;0;6
+6;Novo Hamburgo;Juventude;0;4
+6;Caxias;Grêmio;3;0
+6;Internacional;São Luiz;6;3
+6;Pelotas;Ypiranga;6;3
+6;São José;Brasil de Pelotas;0;1
+7;Novo Hamburgo;Grêmio;0;6
+7;Juventude;São Luiz;4;2
+7;Caxias;Ypiranga;4;2
+7;Internacional;Brasil de Pelotas;5;3
+7;Pelotas;São José;6;1
+8;Novo Hamburgo;São Luiz;4;1
+8;Grêmio;Ypiranga;1;2
+8;Juventude;Brasil de Pelotas;4;2
+8;Caxias;São José;2;3
+8;Internacional;Pelotas;1;3
+9;Novo Hamburgo;Ypiranga;2;2
+9;São Luiz;Brasil de Pelotas;1;5
+9;Grêmio;São José;3;0
+9;Juventude;Pelotas;2;3
+9;Caxias;Internacional;4;2
+10;Brasil de Pelotas;Novo Hamburgo;4;5
+10;São José;Ypiranga;2;1
+10;Pelotas;São Luiz;1;0
+10;Internacional;Grêmio;4;6
+10;Caxias;Juventude;4;4
+11;São José;Novo Hamburgo;0;1
+11;Pelotas;Brasil de Pelotas;5;2
+11;Internacional;Ypiranga;4;2
+11;Caxias;São Luiz;5;6
+11;Juventude;Grêmio;6;6
+12;Pelotas;Novo Hamburgo;3;1
+12;Internacional;São José;2;4
+12;Caxias;Brasil de Pelotas;0;5
+12;Juventude;Ypiranga;5;3
+12;Grêmio;São Luiz;2;3
+13;Internacional;Novo Hamburgo;6;6
+13;Caxias;Pelotas;1;1
+13;Juventude;São José;1;2
+13;Grêmio;Brasil de Pelotas;1;6
+13;São Luiz;Ypiranga;2;6
+14;Caxias;Novo Hamburgo;3;2
+14;Juventude;Internacional;0;2
+14;Grêmio;Pelotas;5;4
+14;São Luiz;São José;5;3
+14;Ypiranga;Brasil de Pelotas;4;4
+15;Juventude;Novo Hamburgo;3;0
+15;Grêmio;Caxias;5;6
+15;São Luiz;Internacional;4;6
+15;Ypiranga;Pelotas;4;3
+15;Brasil de Pelotas;São José;2;6
+16;Grêmio;Novo Hamburgo;6;1
+16;São Luiz;Juventude;6;0
+16;Ypiranga;Caxias;2;0
+16;Brasil de Pelotas;Internacional;3;4
+16;São José;Pelotas;0;5
+17;São Luiz;Novo Hamburgo;3;3
+17;Ypiranga;Grêmio;1;4
+17;Brasil de Pelotas;Juventude;6;0
+17;São José;Caxias;1;4
+17;Pelotas;Internacional;4;6
+18;Ypiranga;Novo Hamburgo;2;0
+18;Brasil de Pelotas;São Luiz;6;1
+18;São José;Grêmio;0;4
+18;Pelotas;Juventude;0;4
+18;Internacional;Caxias;5;2
